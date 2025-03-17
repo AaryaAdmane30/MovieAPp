@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+html,
+body {
+  color: white;
+
+  /* color: black; */
+
+  background-color: black;
+  /* background-color: white; */
+
+  /* min-height: 100vh; Ensures at least full screen height */
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+input,
+textarea {
+  background-color: white;
+  color: black;
+}
