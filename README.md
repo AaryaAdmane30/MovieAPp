@@ -14,7 +14,7 @@ A responsive, full-stack Movie App that lets users browse movies, view detailed 
 
 ---
 
-## 🎯 Features
+##  Features
 
 -  **Movie Search** by title or keyword
 -  **Category Filtering** (by genre, rating, etc.)
@@ -23,7 +23,19 @@ A responsive, full-stack Movie App that lets users browse movies, view detailed 
 -  Fully responsive design for all screen sizes
 
 ---
+Getting Started
+To run locally:
 
+ Backend Setup
+
+cd server
+npm install
+npm start
+ Frontend Setup
+
+cd client
+npm install
+npm start
 
 ---
 
