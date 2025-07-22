@@ -8,7 +8,7 @@ A responsive, full-stack Movie App that lets users browse movies, view detailed 
 
 - **Frontend**: React.js, Axios, React Router DOM
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB + Mongoose *(if using user data — optional)*
+- **Database**: MongoDB + Mongoose 
 
 - **Styling**: CSS3 / Tailwind 
 
