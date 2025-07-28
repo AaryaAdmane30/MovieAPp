@@ -39,7 +39,7 @@ npm start
 
 ---
 
-Deployement -RENDER:
+Deployement -RENDER-
 https://movie-app-ymi4.onrender.com
 
 ## 📁 Folder Structure
