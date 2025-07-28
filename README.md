@@ -39,6 +39,9 @@ npm start
 
 ---
 
+Deployement -RENDER:
+https://movie-app-ymi4.onrender.com
+
 ## 📁 Folder Structure
 
 client/     → React frontend
